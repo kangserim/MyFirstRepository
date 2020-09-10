@@ -1,6 +1,6 @@
 # MyFirstRepository
 
-## Hello My name is Kang Se Rim
+Hello My name is Kang Se Rim
 
 ### First Project
 
