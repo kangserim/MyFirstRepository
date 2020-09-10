@@ -1,7 +1,7 @@
 # MyFirstRepository
 
-Hello My name is Kang Se Rim
+## Hello My name is Kang Se Rim
 
-### First Project
+### First App Project
 
 <img width="" src="./png/FirstProject_CD.png"></img>     
