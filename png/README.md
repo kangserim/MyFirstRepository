@@ -1,3 +1,2 @@
-## Capstone Design
+# 과제물 사진
 
-# Project png
