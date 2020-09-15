@@ -10,4 +10,4 @@
 
 <img width="" src="./png/OnClickedNaverBtn.png"></img>
 
-<img width="" src="./png/OnClickedCall.png"></img>
+<img width="" src="./png/OnClickedCallBtn.png"></img>
