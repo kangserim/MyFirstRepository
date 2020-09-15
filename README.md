@@ -4,6 +4,10 @@
 
 ## 2주차 과제
   
-<img width="" src="./png/2주차 과제.png"></img> 
+<img width="" src="./png/OnClicktoMeg.png"></img> 
 
 ## 3주차 과제
+
+<img width="" src="./png/OnClickedNaverBtn.png"></img>
+
+<img width="" src="./png/OnClickedCallBtn.png"></img>
