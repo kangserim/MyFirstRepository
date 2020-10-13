@@ -28,4 +28,4 @@
 
 ## 7주차 과제
 
-<img width="" src="./png/ImageView1.png"></img> <img width="" src="./png/RIghtArrow.png"></img><img width="" src="./png/ImageView2.png"></img>
+<img width="" src="./png/ImageView1.png"></img> <img width="" src="./png/Arrow.png"></img><img width="" src="./png/ImageView2.png"></img>
