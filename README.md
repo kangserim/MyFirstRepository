@@ -36,4 +36,7 @@
 
 <img width="" src="./png/ScrollView.Width.png"></img> <img width="" src="./png/ScrollView.Height.png"></img>
 
+## 10주차 과제
+<img width="" src="./png/SMS_Apllication.png"></img> 
+
 
